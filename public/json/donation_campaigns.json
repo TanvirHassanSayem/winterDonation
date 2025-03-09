@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "Warm Blankets for Rangpur",
+      "image": "https://i.ibb.co.com/7xhNLfsy/B1-A7022-1.webp",
+      "description": "Help provide warm blankets to families in rural Rangpur, where temperatures can drop significantly during winter months. Many families, especially those with elderly members and young children, struggle to stay warm during the cold nights. Your donation will directly help these vulnerable communities by providing them with thick, quality blankets that can last for several winters.",
+      "status": "Active",
+      "contactInfo": "rangpur@winterwarmth.org | +880 1712 345678",
+      "division": "Rangpur"
+    },
+    {
+      "id": 2,
+      "title": "Winter Jackets for Street Children in Dhaka",
+      "image": "https://i.ibb.co.com/xtBLPs86/download.jpg",
+      "description": "Street children in Dhaka city are particularly vulnerable during winter. This campaign aims to provide warm jackets to at least 500 street children across the capital. These children often sleep in the open and have no protection against the cold. Your donation will help us reach these children and provide them with insulated jackets that are both water-resistant and durable.",
+      "status": "Active",
+      "contactInfo": "dhaka@winterwarmth.org | +880 1811 234567",
+      "division": "Dhaka"
+    },
+    {
+      "id": 3,
+      "title": "Warm Clothing Drive for Sylhet Tea Workers",
+      "image": "https://i.ibb.co.com/m5bKJfXy/download-1.jpg",
+      "description": "Tea plantation workers in Sylhet face harsh working conditions in cold, damp weather during winter. This campaign focuses on providing warm sweaters, gloves, and caps to tea workers and their families. Many of these workers earn minimal wages and cannot afford proper winter clothing. Your contribution will help improve their working conditions and protect their health during the winter season.",
+      "status": "Active",
+      "contactInfo": "sylhet@winterwarmth.org | +880 1912 876543",
+      "division": "Sylhet"
+    },
+    {
+      "id": 4,
+      "title": "Sweaters for School Children in Rajshahi",
+      "image": "https://i.ibb.co.com/YT27vpz1/images.jpg",
+      "description": "Many children in rural Rajshahi drop out of school during winter months because they don't have adequate warm clothing. This campaign aims to provide warm sweaters to school children from low-income families to ensure they can continue their education uninterrupted. Each sweater costs approximately 500 BDT, and we aim to reach at least 1,000 children across 20 schools in the division.",
+      "status": "Active",
+      "contactInfo": "rajshahi@winterwarmth.org | +880 1612 987654",
+      "division": "Rajshahi"
+    },
+    {
+      "id": 5,
+      "title": "Emergency Blanket Distribution in Mymensingh",
+      "image": "https://i.ibb.co.com/s9mChCHT/download-2.jpg",
+      "description": "After recent flooding in parts of Mymensingh, many families have lost their belongings including winter clothing and blankets. This emergency campaign aims to quickly distribute blankets and warm clothing to affected families before temperatures drop further. Your urgent support can help us reach these families in time and prevent cold-related illnesses, especially among children and the elderly.",
+      "status": "Urgent",
+      "contactInfo": "emergency@winterwarmth.org | +880 1512 345678",
+      "division": "Mymensingh"
+    },
+    {
+      "id": 6,
+      "title": "Warm Clothes for Coastal Communities in Chittagong",
+      "image": "https://i.ibb.co.com/nN63RRNP/woman-holding-knitwear.webp",
+      "description": "Fishermen and their families in coastal areas of Chittagong face harsh sea winds during winter. This campaign focuses on providing windproof jackets and warm clothing to these communities. The donated items will help protect fishermen during their work at sea and keep their families warm in coastal villages where the wind-chill factor significantly lowers the effective temperature.",
+      "status": "Active",
+      "contactInfo": "chittagong@winterwarmth.org | +880 1311 234567",
+      "division": "Chittagong"
+    },
+    {
+      "id": 7,
+      "title": "Warm Shawls for Elderly in Khulna",
+      "image": "https://i.ibb.co.com/RpJDv1wT/download-3.jpg",
+      "description": "Elderly people are particularly vulnerable to cold-related illnesses. This campaign aims to provide warm shawls and blankets specifically to elderly residents in rural Khulna. Many elderly individuals in these areas live alone or have limited family support. Your donation will help keep them warm and reduce their risk of health complications during the winter months.",
+      "status": "Active",
+      "contactInfo": "khulna@winterwarmth.org | +880 1411 876543",
+      "division": "Khulna"
+    },
+    {
+      "id": 8,
+      "title": "Winter Care Packages for Barisal Flood Victims",
+      "image": "https://i.ibb.co.com/G1SvyY4/download-4.jpg",
+      "description": "Families affected by recent flooding in Barisal are now facing the onset of winter without adequate protection. This campaign provides complete winter care packages containing blankets, sweaters, socks, and caps to affected families. Each package costs approximately 2,000 BDT and supports a family of four. Your contribution can help us reach more families and provide comprehensive winter protection.",
+      "status": "Urgent",
+      "contactInfo": "barisal@winterwarmth.org | +880 1211 765432",
+      "division": "Barisal"
+    },
+    {
+      "id": 9,
+      "title": "Sweaters for Orphanages in Dhaka",
+      "image": "https://i.ibb.co.com/35hPqKZ5/download-5.jpg",
+      "description": "This campaign focuses on providing warm sweaters and jackets to children living in orphanages across Dhaka city. Many orphanages operate on limited budgets and struggle to provide adequate winter clothing for all children under their care. Your donation will directly benefit these children by ensuring they have proper clothing during the winter months.",
+      "status": "Active",
+      "contactInfo": "orphanages@winterwarmth.org | +880 1611 234567",
+      "division": "Dhaka"
+    },
+    {
+      "id": 10,
+      "title": "Warm Clothing for Remote Communities in Rangpur",
+      "image": "https://i.ibb.co.com/zhg548XM/images-1.jpg",
+      "description": "Remote communities in northern Rangpur experience some of the lowest temperatures in Bangladesh. This campaign aims to reach villages that are often overlooked by larger aid organizations due to their remote location. We provide warm clothing bundles containing blankets, sweaters, and socks to families in these hard-to-reach areas where winter hits particularly hard.",
+      "status": "Active",
+      "contactInfo": "remote@winterwarmth.org | +880 1511 876543",
+      "division": "Rangpur"
+    }
+  ]
